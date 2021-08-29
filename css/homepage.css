@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(../img/bg/many.gif) repeat;
+    background-size: contain;
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+}
+
+.container .card {
+    background-color: #636363;
+    color: #ffffff;
+    margin: auto;
+    width: 25rem;
+}
+footer{
+    position: absolute; 
+    bottom: 0em; 
+    width:100vw; 
+    padding: 1.5rem 2rem 1rem; 
+    background: #000000;
+}
+footer p {
+    color: #ffffff; 
+    margin:0;
+}
+@media screen and (max-width: 576px) {
+    .container {
+        padding: 50px 20px;
+    }
+    .container .card {
+        width: 17rem;
+    }
+    footer {
+        position: relative;
+        bottom: 0;
+    }
+    footer .logo-uib img {
+        width: 70px;
+    }
+}

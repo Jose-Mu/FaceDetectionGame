@@ -1,0 +1,21 @@
+Please follow this tutorial :
+1. First please import the database first. The database is in 'database' folder and the file name is 'face_expression_db'.
+2. You may import the database with XAMPP Phpmyadmin or others.
+3. This tutorial is using XAMPP Phpmyadmin. Don't forget to turn on MySQL on XAMPP installer. First open 'localhost/phpmyadmin/' in browser. Then create a new database with the name 'face_detection_db'.
+4. Go to 'Import' Tab and select sql file from 'database' folder.
+5. Then click 'go'. 
+6. Next, we recommend to use visual studio code live server to open this file.
+7. If you don't have the live server extension, please download it first. You may click on Extensions button or press (Ctlr + Shift + X), then type 'live server' by Ritwick Dey and download it.
+8. Click 'Go Live' on below right of vscode screen.
+9. The web will be opened in your browser.
+
+Thank you!
+
+Our members :
+1. Jose Manuel Budiman 1931039
+2. Kisusyenni Venessa 1931150
+3. Kendy Junianto 1931175
+4. Arif Budiman 1931002
+5. Tri Susanti 1931019
+
+Here is our Face Expression Game Website Link : https://faceexpressiongame.000webhostapp.com/index.php

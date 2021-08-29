@@ -1,0 +1,11 @@
+// {
+//     "liveServer.settings.multiRootWorkspaceName": "face-detection-game"
+// }
+{
+"liveServer.settings.useWebExt": true,
+"liveServer.settings.proxy": {
+    "enable": true,
+    "baseUri": "/",
+    "proxyUri": "http://127.0.0.1/face-detection-game/"
+},
+}
